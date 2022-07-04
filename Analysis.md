@@ -53,20 +53,20 @@
 
 ***
 ## Bảng Academic Transcript
+![image](https://user-images.githubusercontent.com/105901866/177205332-4ad24763-b7ec-43bb-99ed-6610d2f840ed.png)
+- NO
+  > Số môn học
 
+- Subject code
+  > Mã môn học
 
+- Subject name
+  > Tên đầy đủ các môn học
 
+- Semester
+  > Thời gian và năm học (SeasonYear)
 
-
-
-
-
-
-
-
-
-
-
+- 
 
 
 
