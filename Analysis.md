@@ -30,7 +30,61 @@
 
   > Điều kiện điểm bắt buộc của mỗi điểm thành phần
 
--
+- Duration
+
+  > Thời gian và địa điểm thực hiện bài test
+
+- CLO
+
+- Question Type
+
+  > Cấu trúc và dạng bài test
+
+- No Question
+  > Số câu hỏi trong bài test
+
+- Knowledge and Skill
+  > Kiến thức và kỹ năng được đề ra
+
+- Grading Guide
+  > 
+
+- Note
+
+***
+## Bảng Academic Transcript
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
