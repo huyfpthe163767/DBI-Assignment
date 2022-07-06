@@ -66,7 +66,62 @@
 - Semester
   > Thời gian và năm học (SeasonYear)
 
-- 
+- Group
+  > Tên lớp học xác định theo khóa + kì học
+
+- StartDate
+  > Thời gian bắt đầu học môn học tương ứng
+
+- EndDate
+  > Thời gian kết thúc học môn học tương ứng
+
+- Average Mark
+  > Điểm trung bình của môn học
+
+- Status
+  > Trạng thái Passed or Not Passed
+
+***
+## Bảng Student Transcripts
+![image](https://user-images.githubusercontent.com/105901866/177566410-515c1ac4-78da-427e-a9f6-eef99ca087af.png)
+- Grade category
+  > Tên danh sách các điểm thành phần của môn học tương ứng giống Category ở bảng Syllabus
+
+- Grade Item
+> Tên thành phần đầu điểm nhỏ
+
+- Weight
+> Phần trăm đầu điểm chiếm tổng số trong tổng điểm môn học
+
+- Value
+> Điểm đã đạt được khi test với các đầu điểm tương ứng
+
+***
+# Xác Định Entities and Attribute 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
