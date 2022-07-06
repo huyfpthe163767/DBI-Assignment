@@ -88,13 +88,13 @@
   > Tên danh sách các điểm thành phần của môn học tương ứng giống Category ở bảng Syllabus
 
 - Grade Item
-> Tên thành phần đầu điểm nhỏ
+  > Tên thành phần đầu điểm nhỏ
 
 - Weight
-> Phần trăm đầu điểm chiếm tổng số trong tổng điểm môn học
+  > Phần trăm đầu điểm chiếm tổng số trong tổng điểm môn học
 
 - Value
-> Điểm đã đạt được khi test với các đầu điểm tương ứng
+  > Điểm đã đạt được khi test với các đầu điểm tương ứng
 
 ***
 # Xác Định Entities and Attribute 
