@@ -79,7 +79,7 @@
   > Điểm trung bình của môn học
 
 - Status
-  > Trạng thái Passed or Not Passed
+  > Trạng thái Passed(with conditions) or Not Passed 
 
 ***
 ## Bảng Student Transcripts
