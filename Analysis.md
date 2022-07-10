@@ -99,20 +99,24 @@
 ***
 # Xác Định Entities and Attribute 
 
+## Student 
+  >- StudentID
+  >- FName
+  >- LName
+  >- Address
+  >- Gender
+  >- DOB
+  >- Email
 
+## Group
+  >- GroupID
+  >- GroupName
 
+## Subject
+  >- SubjectID
+  >- SubjectName
 
-
-
-
-
-
-
-
-
-
-
-
+## 
 
 
 
