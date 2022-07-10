@@ -116,9 +116,12 @@
   >- SubjectID
   >- SubjectName
 
-## 
+## Semester
+  >- SesName
+  >- StartDate
+  >- EndDate
 
-
+## Sy
 
 
 
