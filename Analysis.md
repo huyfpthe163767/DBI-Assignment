@@ -96,6 +96,12 @@
 - Value
   > Điểm đã đạt được khi test với các đầu điểm tương ứng
 
+
+***
+# ERD Diagram
+
+![image](https://user-images.githubusercontent.com/105901866/179046836-749d8ab8-7821-4535-a9d1-4c405346034f.png)
+
 ***
 # Xác Định Entities and Attribute 
 
@@ -123,11 +129,6 @@
 
 ## Syllabus
 
-
-
-***
-
-![image](https://user-images.githubusercontent.com/105901866/178813655-d3bd5835-d995-4fdc-a9d4-144fa452b6be.png)
 
 
 
