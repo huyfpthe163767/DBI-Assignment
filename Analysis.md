@@ -117,23 +117,43 @@
 ## Group
   >- GroupID
   >- GroupName
+  >- Major
 
 ## Subject
   >- SubjectID
   >- SubjectName
 
 ## Semester
+  >- SesID
   >- SesName
   >- StartDate
   >- EndDate
 
-## Syllabus
+## Weight
+  >- WeightID
+  >- weight_details
 
+## Instruct
+  >- InstructID
+  >- Know_Skill
+  >- Grading_Guide
+  >- Note
+  >- CategoryID
 
+## Category
+  >- CategoryID
+  >- CategoryName
+  >- [Completion Criteria]
+  >- Type
 
-
-
-
+## Assessment
+  >- AssID
+  >- Part
+  >- Duration
+  >- [No Question]
+  >- CLO
+  >- Weight
+  >- CategoryID
 
 
 
