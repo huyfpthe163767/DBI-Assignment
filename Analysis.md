@@ -100,7 +100,7 @@
 ***
 # ERD Diagram
 
-![image](https://user-images.githubusercontent.com/105901866/179046836-749d8ab8-7821-4535-a9d1-4c405346034f.png)
+![image](https://user-images.githubusercontent.com/105901866/179364110-dcd17eea-e9b1-422f-b7cc-5dfb45f8e1bc.png)
 
 ***
 # Xác Định Entities and Attribute 
@@ -172,16 +172,25 @@
   >- Một kỳ có nhiều lớp học diễn ra và một lớp sẽ có nhiều kỳ học
   >- => Quan hệ n-n => tạo ra bảng ENROLL 
 
-##  ⟺ 
-  >-
-  >- => Quan hệ n-n => tạo ra bảng 
+## SUBJECT ⟺ STUDENTS
+  >- Một môn học có nhiều học sinh học và một học sinh có thể học nhiều môn học
+  >- => Quan hệ n-n => tạo ra bảng [Student Transcripts]
 
+## STUDENTS ⟺ SUBJECT ⟺ WEIGHT
+  >- Một học sinh có thể học nhiều môn nên cũng có nhiều weight và ngược lại
+  >- => Quan hệ n-n => tạo ra bảng GRADE
 
+## SEMESTER ⟺ STUDENTS
+  >- Một kỳ có nhiều học sinh học và một học sinh học nhiều kỳ
+  >- => Quan hệ n-n => tạo ra bảng SHOW
 
+## CATEGORY ⟺ SUBJECT
+  >- Một thành phần điểm sẽ có trong nhiều môn học và một môn học sẽ có nhiều thành phần điểm
+  >- => Quan hệ n-n => tạo ra bảng CAT_SUB
 
-
-
-
+## ASSESSMENT ⟺ SUBJECT
+  >- Một đánh giá 
+  >- => Quan hệ n-n => tạo ra bảng HAS
 
 
 
