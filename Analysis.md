@@ -155,14 +155,26 @@
   >- Weight
   >- CategoryID
 
+***
+# Database Diagrams 
 
+![image](https://user-images.githubusercontent.com/105901866/179354315-4775425e-e4c4-4daa-8f3d-f68a6ec0f4cd.png)
 
+## STUDENTS ⟺ GROUP
+  >- Một học sinh có thể đăng ký nhiều lớp và một lớp có nhiều học sinh 
+  >- => Quan hệ n-n => tạo ra bảng JOIN
 
+##  ⟺ 
+  >-
+  >- => Quan hệ n-n => tạo ra bảng 
+  
+## GROUP ⟺ SEMESTER
+  >- Một kỳ có nhiều lớp học diễn ra và một lớp sẽ có nhiều kỳ học
+  >- => Quan hệ n-n => tạo ra bảng ENROLL 
 
-
-
-
-
+##  ⟺ 
+  >-
+  >- => Quan hệ n-n => tạo ra bảng 
 
 
 
