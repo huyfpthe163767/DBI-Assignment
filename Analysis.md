@@ -163,10 +163,6 @@
 ## STUDENTS ⟺ GROUP
   >- Một học sinh có thể đăng ký nhiều lớp và một lớp có nhiều học sinh 
   >- => Quan hệ n-n => tạo ra bảng JOIN
-
-##  ⟺ 
-  >-
-  >- => Quan hệ n-n => tạo ra bảng 
   
 ## GROUP ⟺ SEMESTER
   >- Một kỳ có nhiều lớp học diễn ra và một lớp sẽ có nhiều kỳ học
@@ -189,11 +185,14 @@
   >- => Quan hệ n-n => tạo ra bảng CAT_SUB
 
 ## ASSESSMENT ⟺ SUBJECT
-  >- Một đánh giá 
-  >- => Quan hệ n-n => tạo ra bảng HAS
+  >- Một đánh giá có thể đánh giá cho nhiều môn học nhưng một môn học chỉ có một đánh giá
+  >- => Quan hệ 1-n 
 
 
 
+##  ⟺ 
+  >-
+  >- => Quan hệ n-n => tạo ra bảng 
 
 
 
