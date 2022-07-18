@@ -188,11 +188,8 @@
   >- Một đánh giá có thể đánh giá cho nhiều môn học nhưng một môn học chỉ có một đánh giá
   >- => Quan hệ 1-n 
 
-
-
-##  ⟺ 
-  >-
-  >- => Quan hệ n-n => tạo ra bảng 
+## INSTRUCT ⟺ SUBJECT
+  >- => Quan hệ 1-1
 
 
 
